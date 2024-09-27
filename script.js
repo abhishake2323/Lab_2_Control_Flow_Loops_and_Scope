@@ -36,6 +36,8 @@ switch (day) {
     case 7:
         console.log("Saturday")
         break;
+    default:
+        console.log("Enter numbers from 1 to 7 only")
 
 
 }
